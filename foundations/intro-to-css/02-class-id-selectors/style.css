@@ -1,1 +1,23 @@
-/* Add CSS Styling */
+p {
+    background-color: rgb(231, 166, 166);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+p.number.big {
+    font-size:24px;
+}
+
+div {
+    font-family:'Times New Roman', Times, serif
+}
+
+div#id {
+    color:rgb(66, 74, 228);
+    font-size: 36px;
+}
+
+div#id2 {
+    background-color: rgb(122, 231, 133);
+    font-size:24px;
+    font-weight: bold;
+}
